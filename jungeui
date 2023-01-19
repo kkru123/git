@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <meta name="keyword" content="graph,open">
+    <meta name="author" content="jungeui">
+    <link rel="shortcut icon" href="https://jungeui602.dothome.co.kr/images/sea.ico" type="image/ico"> 
+<style>
+body {background-color: aqua;}
+p{color:white}
+</style>
+</head>
+<body>
+   <p>인덱스페이지</p>
+</body>
+</html>
